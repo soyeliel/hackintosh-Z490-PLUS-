@@ -20,6 +20,8 @@ Thunderbolt 3
 
 Not working so far
 DRM -  Netflix and Prime in Safari. Other web browsers works fine. 
+You may fixed trough this guide, but since I not use safari, I don't care about this.
+https://dortania.github.io/OpenCore-Post-Install/universal/drm.html#testing-drm
 
 
 THIS IS NOT USABLE WITH JUST COPY/PASTE. 
